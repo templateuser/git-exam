@@ -1,0 +1,2 @@
+This is master file that was added locally on master branch after
+the creation of temp-dir to make branching
